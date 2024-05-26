@@ -15,12 +15,6 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
-- 🤝 I’m looking for help with **Begginer Web Developers**
-
-- 👨‍💻 Am complete some challanges on [FrontEnd Mentor](https://www.frontendmentor.io/profile/hari-gitacc)
-
-- 💬 Ask me about **MERN Stack**
-
 - 😄 Pronouns: **Techie**
 
 - 📫 How to reach me **prasanth.shp@gmail.com**
