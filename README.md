@@ -3,9 +3,12 @@
 
 <img align="right" width="400" height="300" src="https://camo.githubusercontent.com/d4fa02abc45ed240d9766f5588f7e387676e43a9d8a4e6b8c458560987cca846/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966">
 
-
+- 💼 I'm currently doing an internship at **Tech Vaseegrah**
+  
+- 🎓 I'm currently pursuing a **BCA** at Periyar Maniammai Institute of Science and Technology
+  
 - 🔭 I’m currently working on **Instagram and Youtube API integration**
-
+  
 - 🌱 I’m currently learning **DSA,Data analytics**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
