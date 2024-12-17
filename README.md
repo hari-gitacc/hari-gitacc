@@ -4,7 +4,7 @@
 
 
 
-- 💼 I'm currently doing an internship at **Tech Vaseegrah**
+- 💼 I'm currently doing an part time at **Tech Vaseegrah**
   
 - 🎓 I'm currently pursuing a **BCA** at Periyar Maniammai Institute of Science and Technology
   
