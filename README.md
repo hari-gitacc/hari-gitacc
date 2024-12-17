@@ -2,7 +2,6 @@
 
 <h3 align="center">A MERN Stack Developer with experience in building dynamic web applications.</h3>
 
-<img align="right" width="400" height="300" src="https://lottie.host/embed/ee498d76-c3f8-4bd6-9da5-f4aeb96f028e/vbTJUVTrd7.lottie">
 
 
 - 💼 I'm currently doing an internship at **Tech Vaseegrah**
