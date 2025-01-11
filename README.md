@@ -8,15 +8,15 @@
   
 - 🎓 I'm currently pursuing a **BCA** at Periyar Maniammai Institute of Science and Technology
   
-- 🔭 I’m currently working on **Instagram and Youtube API integration**
+- 🔭 I’m currently working on **ICICI bank UPI mandate for autopay**
   
-- 🌱 I’m currently learning **DSA,Data analytics**
+- 🌱 I’m currently learning **DSA (java)**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Open source projects**
 
 - 😄 Pronouns: **Techie**
 
-- 📫 How to reach me **prasanth.shp@gmail.com**
+- 📫 How to reach me **hari.dev@zohomail.in**
 
 - ⚡ Fun fact **I Have a Strong Determination**
 
